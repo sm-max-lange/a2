@@ -24,6 +24,6 @@ These are my notes for my Latin Class according to the textbook *Wheelock's Lati
    :glob:
    :hidden:
 
-   chapter1/*
+   chapters/*
 
 
