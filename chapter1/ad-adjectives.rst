@@ -1,6 +1,0 @@
-Adjectives
-=============
-
-.. todo:: 
-
-    All Adjectives
