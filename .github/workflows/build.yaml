@@ -25,7 +25,9 @@ jobs:
           pip install piccolo_theme
           pip install sphinxcontrib-drawio
       - name: Build HTML
-        run: make html
+        run: |
+          make clean
+          make html
             
       - name: Commit files
         run: |
