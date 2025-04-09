@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Latin Notes'
-copyright = '2024, Max Lange'
+project = 'Algebra 2 Notes'
+copyright = '2025, Max Lange'
 author = 'Max Lange'
 
 

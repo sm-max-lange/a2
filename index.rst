@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Latin Notes
+Math Notes
 ==========================================
 
-These are my notes for my Latin Class according to the textbook *Wheelock's Latin*.
+Late...
 
 .. rubric:: Useful resourses
 
-* `Weelock's Pronouation Guide <http://www.wheelockslatin.com/chapters/introduction/introduction.html>`_
+* `McGraw Hill <https://my.mheducation.com/secure/student/urn:com.mheducation.openlearning:enterprise.identity.organization:prod.global:organization:c5fbe881-2554-4a83-8d5d-6d58df5b68d6/home>`_
 
 
 .. rubric:: TODO List
